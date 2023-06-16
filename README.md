@@ -1,7 +1,7 @@
-project setup
-yarn 
+### project setup
+```yarn ```
 
-run project 
-yarn run dev
+### run project 
+```yarn run dev```
 
 
